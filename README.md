@@ -19,6 +19,7 @@ To install SyntaxHighlight, simply recursively clone this repository (`git clone
 With this module installed, using SyntaxHighlight in your view scripts is easy:
 
 ```php
+
 <?php 
 	$source = '
 	    $foo = 45;
@@ -29,6 +30,7 @@ With this module installed, using SyntaxHighlight in your view scripts is easy:
 	$language = 'php';
 	echo $this->highlight($source, $language);
 ?>
+
 ```
 
 **NOTE:** For more information you can found in [documents](http://qbnz.com/highlighter/geshi-doc.html) 
