@@ -36,9 +36,10 @@ With this module installed, using SyntaxHighlight in your view scripts is easy:
 ## Configuration
 
 ## Todo
-* Configuration style
+* Configuration options
 
 ## License
 
 SyntaxHighlight is released under the New BSD-2 license. See the included LICENSE file.
+
 GeSHi is released under the GNU GPLv2
