@@ -1,21 +1,22 @@
 
-#SyntaxHighLight - ZF2 SyntaxHighLight Module
+#SyntaxHighlight
+ZF2 SyntaxHighlight Module
 
 Version 0.0.1 Created by [Thuy Dinh Xuan](http://zendgroup.vn/)
 
 # Introduction
 
-This ZF2 module simply adds [SyntaxHighLight](http://qbnz.com/highlighter/) support to your project. It utilizes the [GeShi SyntaxHighLight](http://qbnz.com/highlighter/) library
+This ZF2 module simply adds [SyntaxHighlight](http://qbnz.com/highlighter/) support to your project. It utilizes the [GeShi SyntaxHighlight](http://qbnz.com/highlighter/) library
 
 ## Installation
 
-To install SyntaxHighLight, simply recursively clone this repository (`git clone
+To install SyntaxHighlight, simply recursively clone this repository (`git clone
 --recursive`) into your ZF2 modules directory and enable it in your
 `config/application.config.php` file.  That's it!
 
 ## Usage
 
-With this module installed, using SyntaxHighLight in your view scripts is easy:
+With this module installed, using SyntaxHighlight in your view scripts is easy:
 
 ```php
 <?php 
@@ -39,5 +40,5 @@ With this module installed, using SyntaxHighLight in your view scripts is easy:
 
 ## License
 
-SyntaxHighLight is released under the New BSD-2 license. See the included LICENSE file.
+SyntaxHighlight is released under the New BSD-2 license. See the included LICENSE file.
 GeSHi is released under the GNU GPLv2
